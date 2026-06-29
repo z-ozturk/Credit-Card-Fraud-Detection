@@ -17,8 +17,8 @@ This project compares a simple rule-based baseline system against a Random Fores
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/zehra05ozturk/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+   git clone https://github.com/z-ozturk/Credit-Card-Fraud-Detection.git
+   cd Credit-Card-Fraud-Detection
    ```
 
 2. **Install dependencies**
@@ -82,8 +82,8 @@ Bu proje, kamuya açık [Kaggle ULB Kredi Kartı Sahtekarlığı Tespiti](https:
 
 1. **Repoyu klonlayın**
    ```bash
-   git clone https://github.com/zehra05ozturk/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+   git clone https://github.com/z-ozturk/Credit-Card-Fraud-Detection.git
+   cd Credit-Card-Fraud-Detection
    ```
 
 2. **Bağımlılıkları yükleyin**
