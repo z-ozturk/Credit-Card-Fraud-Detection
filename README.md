@@ -1,10 +1,12 @@
 # Credit Card Fraud Detection
-
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/zehraoztturk/credit-card-fraud-detection)
 ## English
 
 ### Overview
 
 This project compares a simple rule-based baseline system against a Random Forest machine learning model for credit card fraud detection, using the publicly available [Kaggle ULB Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) dataset. The goal is to quantify the measurable advantages of ML-based anomaly detection over static threshold rules in terms of Precision, Recall, F1-Score, and ROC-AUC.
+
+
 
 ### Dataset
 
